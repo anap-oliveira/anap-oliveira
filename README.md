@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Black woman and programmer.
+
 <!--
 **anap-oliveira/anap-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
